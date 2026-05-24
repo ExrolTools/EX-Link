@@ -15,7 +15,7 @@ All this is done with a drag and drop and a few clicks. No UI building needed, n
 
 Installation Video Link: https://youtu.be/jJzBffOsgA0
 
-### Getting started with EX-Link
+## Getting started with EX-Link
 
 Once you place the EX-Link prefab into your scene, the very first step is to position it where you want the menu to appear in your world.
 
