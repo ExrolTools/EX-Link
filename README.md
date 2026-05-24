@@ -13,7 +13,7 @@ All this is done with a drag and drop and a few clicks. No UI building needed, n
 
 ## Installation
 
-Installation Video Link: 
+Installation Video Link: https://youtu.be/jJzBffOsgA0
 
 ## UI Element Logic & Network States
 
