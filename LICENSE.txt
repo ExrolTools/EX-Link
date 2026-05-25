@@ -1,0 +1,42 @@
+EX-LINK: TERMS OF USE & LICENSE AGREEMENT
+Author: Exrol
+Product: EX-Link
+
+By downloading, importing, or utilizing the EX-Link, you explicitly agree to the following terms and conditions.
+
+1. GRANT OF LICENSE & USAGE
+This tool is provided completely free of charge. You are granted a non-exclusive, non-transferable license to integrate and utilize the EX-Link within your personal or commercial worlds hosted on the Somnium Space platform.
+
+Permitted Customization: You are encouraged to fully customize the visual aesthetics (colors, element scaling, shapes, background images, and layouts) using the provided EXLinkBuilder Inspector tools to match the art direction of your world.
+
+Credits: While not strictly enforced, adding credit to "Exrol" in your world's credit board or description is highly appreciated.
+
+2. THE FOOTER VISIBILITY MANDATE (STRICT)
+The framework generates a proprietary footer containing the EX-Link logo, and author attribution. This footer must remain untampered and visible.
+
+Whenever the generated UI Canvas is active and visible in your world, the footer must also be fully visible and legible.
+
+You MAY NOT delete, disable, or modify the footer hierarchy.
+
+You MAY NOT obscure the footer behind other UI elements, 3D geometry, or world terrain (e.g., hiding it underground).
+
+You MAY NOT apply alpha-fading, transparent materials, or color-matching techniques designed to camouflage the footer into the background.
+
+You MAY NOT scale the footer down to illegible proportions.
+
+3. REDISTRIBUTION PROHIBITED
+Redistribution of this package, in whole or in part, is strictly prohibited.
+
+You may not share, host, or re-upload the .unitypackage, its raw C# scripts, prefabs, or image assets anywhere.
+
+You may not extract individual components (such as the scripts or sprites) to use in other isolated projects.
+
+If you wish to share this tool with friends or collaborators, you must redirect them to the official original download link.
+
+4. SCRIPT MODIFICATION
+The core runtime and editor logic .cs scripts are provided as-is to ensure IL2CPP compatibility on the Somnium Space network.
+
+Modification, reverse-engineering, or rewriting of the raw C# scripts is prohibited without explicit prior written consent from the author. If your world requires a specific logic modification, please contact the author directly.
+
+5. LIMITATION OF LIABILITY
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, CORRUPTION OF DATA, WORLD BUILD FAILURES, OR LOSS OF INSTANCE DATA) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
